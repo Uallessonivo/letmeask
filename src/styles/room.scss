@@ -110,3 +110,34 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  #page-room {
+    .content {
+      button + button {
+        width: 70px;
+        font-size: 12px;
+      }
+    }
+
+    main {
+      margin: 0 20px;
+
+      .room-title {
+        display: flex;
+        margin: 20px 20px;
+        justify-content: space-between;
+
+        h1 {
+          font-size: 12px;
+        }
+      }
+
+      .form-footer {
+        button {
+          padding: 10px;
+        }
+      }
+    }
+  }
+}

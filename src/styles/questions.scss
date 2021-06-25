@@ -80,3 +80,23 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  .question {
+    p {
+      font-size: 12px;
+    }
+
+    footer {
+      .user-info {
+        span {
+          font-size: 12px;
+        }
+      }
+
+      > div {
+        gap: 4px;
+      }
+    }
+  }
+}
