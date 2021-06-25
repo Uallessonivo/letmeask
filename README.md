@@ -10,11 +10,32 @@
 <h4 align="center">Site de salas Q&A ao-vivo</h4>
 
 <p align="center">
-  <img alt="letmeask" src="public/frontview.png">
-  <img alt="letmeask" src="public/frontview2.png">
-  <img alt="letmeask" src="public/frontview3.png">
-  <img alt="letmeask" src="public/frontview4.png">
+  <a href="#stack">Stack</a> •
+  <a href="#features">Features</a> •
+  <a href="#how-to-use">How to use</a> •
 </p>
+
+<p align="center">
+  <img alt="letmeask" src="public/frontview.png">
+</p>
+
+## STACK
+
+- Typescript
+- React js
+- Firebase
+
+<p align="center">
+  <img alt="letmeask" src="public/frontview5.png">
+  <img alt="letmeask" src="public/frontview6.png">
+</p>
+
+## Features
+
+- Conversas em tempo real
+- Highlight da pergunta
+- Marcar perguntar como respondida
+- Deletar pergunta
 
 ## How to use
 
@@ -23,7 +44,7 @@
 $ git clone https://github.com/Uallessonivo/letmeask
 
 # Go into the repository
-$ cd dashgo
+$ cd letmeask
 
 # Install dependencies
 $ yarn
@@ -31,7 +52,6 @@ $ yarn
 # Run the app
 $ yarn start
 ```
-
 
 ## License
 
