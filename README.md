@@ -1,7 +1,3 @@
-<p align="center">
-    Project developed during NLW6, an event organized by @Rocketseat. Instructed by @diego3g.
-</p>
-
 <h1 align="center">
   Letmeask
   <br>
